@@ -20,8 +20,24 @@ Command reference for the in-game `+` command system.
 - `+help`  
   Replies with this GitHub link.
 
+- `+coinflip`
+  Replies with `Heads` or `Tails`.
+
+- `+tps`
+  replies with server TPS when available.
+
+- `+tip`
+  replies with `[tip]: <random tip>`.
+
+- `+addtip <tip>`
+  saves tip to bots memory. Note: your UUID and username gets saved.
+
+- `+roll`
+  rolls a 6 sided dice.
+
 ## Info
 
 - Prefix is `+`
 - Commands have a 5-second cooldown
 - bot may not always be online
+- i'm not releasing the source code.
