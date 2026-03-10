@@ -24,3 +24,4 @@ Command reference for the in-game `+` command system.
 
 - Prefix is `+`
 - Commands have a 5-second cooldown
+- bot may not always be online
