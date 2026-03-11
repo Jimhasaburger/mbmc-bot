@@ -1,6 +1,6 @@
 # MBMC Commands
 
-Command reference for the in-game `+` command system.
+Command List for MBMC bot.
 
 ## Commands
 
@@ -31,6 +31,9 @@ Command reference for the in-game `+` command system.
 
 - `+addtip <tip>`
   saves tip to bots memory. Note: your UUID and username gets saved.
+
+- `+lastseen <user>`
+  replies with how long ago that user was last seen (ex: `5 minutes ago`).
 
 - `+roll`
   rolls a 6 sided dice.
